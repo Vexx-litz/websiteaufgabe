@@ -1,0 +1,19 @@
+* {
+    background-color: black;
+    color: white;
+    font-family: Arial;
+    text-align: center;
+    margin-top: 5vh;
+    font-size: 30px;
+}
+
+h1 {
+    font-size: 70px;
+}
+
+button {
+    padding: 10px;
+    background-color: darkblue;
+    border: 1px solid black;
+    border-radius: 20px;
+}
